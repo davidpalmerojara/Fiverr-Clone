@@ -30,7 +30,7 @@
 
 ### 1.3. Deployment
 
-> - Heroku
+> - Heroku (Due to changes in Heroku's pricing policy the backend is currently not online. We're currently working on the issue)
 
 ---
 
